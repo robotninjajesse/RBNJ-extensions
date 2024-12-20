@@ -1,6 +1,6 @@
 // ID: RBNJpasswordHasher
 // Name: Password Hasher
-// Description: Hash a string or password as many times as you want, including using a salt.
+// Description: Hash a string or password as many times as you want using SHA-521, including using a salt.
 // By: RobotNinjaJesse <https://scratch.mit.edu/users/RobotNinjaJesse/>
 // Banner: https://raw.githubusercontent.com/robotninjajesse/RBNJ-extensions/main/banners/RBNJpasswordHasher.png
 // License: MIT
